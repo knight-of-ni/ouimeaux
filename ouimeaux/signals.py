@@ -1,4 +1,4 @@
-from ouimeaux.pysignals import Signal, StateChange, receiver
+from pysignals import Signal, StateChange, receiver
 
 # Work around a bug in pysignals when in the interactive interpreter
 import sys
